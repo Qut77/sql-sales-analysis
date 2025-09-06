@@ -1,5 +1,3 @@
-# sql-sales-analysis
-SQL-проект анализа базы данных DVD Rental: отчёты по продажам, выручке, клиентам и жанрам с использованием JOIN, CTE и оконных функций.
 # SQL Sales Analysis (DVD Rental)
 
 Аналитический проект на SQL на основе учебной базы данных **DVD Rental** (PostgreSQL).  
